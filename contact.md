@@ -1,5 +1,5 @@
 ---
-permalink: /contact.html
+permalink: /contact/index.html
 ---
 Preferred contact methods (in order):
 * Discord: <>

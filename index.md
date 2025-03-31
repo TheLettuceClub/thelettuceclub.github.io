@@ -15,4 +15,4 @@ I can't do that, much as I'd want to, but I have done many other wonderful thing
 
 If you're interested in a more formal write-up of my skills and such, look at my [resume](resume.html).
 
-If you'd like to get in contact with me, my preferred methods are listed [here](contact.html).
+If you'd like to get in contact with me, my preferred methods are listed [here](/contact).
