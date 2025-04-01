@@ -20,7 +20,7 @@ This page serves to centralize some high-level technical information I've had in
 * How do I install the mod!?
     * A: instructions are provided in the Readme's of the repositories and included in each release ZIP file.
 * I've installed the mod. Now what?
-    * A: Well, you need another piece of software to read the data and do stuff with it. This project generally targets a piece of streamer-assistant software called [SAMMI](sammi.solutions). To use SAMMI with one of my mods, you should follow the instructions on that mod's sub-page here.
+    * A: Well, you need another piece of software to read the data and do stuff with it. This project generally targets a piece of streamer-assistant software called [SAMMI](https://sammi.solutions). To use SAMMI with one of my mods, you should follow the instructions on that mod's sub-page here.
 * Can I use something other than SAMMI?:
     * A: Of course! Any software that can connect to a WebSockets server and is performant enough to read a 60 Hz data stream will totally work!
 * I have a question/problem! How can I get support?

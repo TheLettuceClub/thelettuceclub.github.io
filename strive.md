@@ -8,7 +8,7 @@ Extension link: [github.com/Krackatoa/STRIVE-x-SAMMI](https://github.com/Krackat
 
 ## How to use this mod with SAMMI
 1. Download and install the mod from the mod link above.
-2. Download and install SAMMI from [here](sammi.solutions)
+2. Download and install SAMMI from [here](https://sammi.solutions)
 3. Download the file "GGST.x.SAMMI.1_4.zip" from the extension link above.
     * Extract it anywhere.
 4. Open SAMMI, then click "Install an extension". Find the sef you just downloaded.
