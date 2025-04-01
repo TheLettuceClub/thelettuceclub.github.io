@@ -1,4 +1,4 @@
 ---
-permalink: /resume.html
+permalink: /resume/index.html
 ---
-# Resume goes here when I can be bothered to write it out
+#### Resume goes here when I can be bothered to write it out

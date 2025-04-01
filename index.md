@@ -13,6 +13,16 @@ I can't do that, much as I'd want to, but I have done many other wonderful thing
 * Became the president of WPI's Fighting Game Club, leading the club to have it's first official budget and tournament with a prize pool.
 * Survived (at time of writing) nearly two years of college.
 
-If you're interested in a more formal write-up of my skills and such, look at my [resume](resume.html).
+If you're interested in a more formal write-up of my skills and such, look at my [resume](/resume).
 
 If you'd like to get in contact with me, my preferred methods are listed [here](/contact).
+
+If you'd like to know about my state-export mods in more detail, it is [here](/mods).
+<br><br><br>
+
+
+TODO:
+* fill in resume
+* images
+* online versions of wsTest?
+* reference this elsewhere (repos, twitter, etc)

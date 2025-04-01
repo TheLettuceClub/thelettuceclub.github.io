@@ -2,6 +2,6 @@
 permalink: /contact/index.html
 ---
 Preferred contact methods (in order):
-* Discord: <>
-* Twitter/Bluesky: <>
-* E-mail: <>
+* Discord: quattrodan3
+* Twitter/Bluesky: nleff72
+* E-mail: dan (at) lakeviewcomputerspecialists (dot) com
