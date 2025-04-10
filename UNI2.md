@@ -9,10 +9,10 @@ Extension link: [github.com/Krackatoa/UNI2-x-SAMMI/](https://github.com/Krackato
 ## How to use this mod with SAMMI
 1. Download and install the mod from the mod link above.
 2. Download and install SAMMI from [here](https://sammi.solutions)
-3. Download the file "TBD.sef" from the extension link above.
+3. Download the file "UNI2 x SAMMI.sef" from the extension link above.
 4. Open SAMMI, then click "Install an extension". Find the sef you just downloaded.
 5. From the same menu, click "Open in a browser"
-    * Make sure "TBD" appears as one of the extensions listed.
+    * Make sure "UNI2 x SAMMI" appears as one of the extensions listed.
 6. Design your funny stream events in SAMMI
     * Consult SAMMI documentation and [Krackatoa's exellent tutorial](https://www.youtube.com/watch?v=Jdt871b644o).
 7. Profit.
