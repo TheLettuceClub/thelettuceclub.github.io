@@ -4,7 +4,7 @@ permalink: /mods/UNI2.html
 # Under Night In-Birth 2 Information
 Mod link: [github.com/TheLettuceClub/UNI2xSAMMI-Release](github.com/TheLettuceClub/UNI2xSAMMI-Release)
 
-Extension link: [tbd]()
+Extension link: [github.com/Krackatoa/UNI2-x-SAMMI/](https://github.com/Krackatoa/UNI2-x-SAMMI/)
 
 ## How to use this mod with SAMMI
 1. Download and install the mod from the mod link above.
