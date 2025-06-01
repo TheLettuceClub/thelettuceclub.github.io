@@ -2,7 +2,7 @@
 permalink: /mods/strive.html
 ---
 # Guilty Gear Strive Information
-Mod link: [github.com/TheLettuceClub/StriveSAMMI-Release](github.com/TheLettuceClub/StriveSAMMI-Release)
+Mod link: [github.com/TheLettuceClub/StriveSAMMI-Release](https://github.com/TheLettuceClub/StriveSAMMI-Release)
 
 Extension link: [github.com/Krackatoa/STRIVE-x-SAMMI](https://github.com/Krackatoa/STRIVE-x-SAMMI/releases)
 
