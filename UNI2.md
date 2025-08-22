@@ -2,7 +2,7 @@
 permalink: /mods/UNI2.html
 ---
 # Under Night In-Birth 2 Information
-Mod link: [github.com/TheLettuceClub/UNI2xSAMMI-Release](github.com/TheLettuceClub/UNI2xSAMMI-Release)
+Mod link: [github.com/TheLettuceClub/UNI2xSAMMI-Release](https://github.com/TheLettuceClub/UNI2xSAMMI-Release)
 
 Extension link: [github.com/Krackatoa/UNI2-x-SAMMI/](https://github.com/Krackatoa/UNI2-x-SAMMI/)
 
