@@ -5,7 +5,7 @@ permalink: /resume/index.html
 
 16 Ormond Street #1, Worcester, MA, 01609
 
-Linkedin: https://linkedin.com/in/daniel-silverstein-aba262311
+Linkedin: <https://linkedin.com/in/daniel-silverstein-aba262311>
 
 Contact info available [here](/contact).
 

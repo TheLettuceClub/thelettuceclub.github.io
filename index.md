@@ -10,7 +10,7 @@ Thus far I've used and become familiar with the following web technologies:
 * React.JS
 * Vite
 * Node.JS
-    * ExpressJS
+* ExpressJS
 * MongoDB
 * And many others...
 
@@ -18,14 +18,14 @@ Thus far I've used and become familiar with the following web technologies:
 Through my WPI coursework, I've created or contributed to three web apps.
 
 First, for my Humanities Practicum project, I worked with a small team to update a web app for communicating with an electronic instrument called the Les Paulverizer. I contributed code that simplified and explained the connection procedure over Bluetooth and USB and added some other features.
-* Link: https://the-rat-lab.github.io/Les-Paulverizer/
+* Link: <https://the-rat-lab.github.io/Les-Paulverizer/>
 
 Second, for my IQP, I also worked with a small team to create a data-displaying website for an Angel Investing firm in New Mexico. Because the dev team was me and one other person, I was responsible for pretty much everything on the site, from the functional frontend (React), to the backend server (ASP.NET Core) to the database providing the data (Azure SQL DB). This project is where I gained most of my experience, as I'd only toyed around with what React could do previously.
-* Link: https://nmangelsreport2server-app-202511.politerock-6a695c3a.westus.azurecontainerapps.io/
+* Link: <https://nmangelsreport2server-app-202511.politerock-6a695c3a.westus.azurecontainerapps.io/>
     * Note: Loading the "Database" page may take a few seconds.
 
 Finally, for my Webware class, I worked with a group of 5 to create another data-display website. This one was more advanced, as it had to display its data in a number of different forms and support a submission form for users to add new data. I was tasked with creating the backend (in ExpressJS) and making sure the frontend programmers were on the right track with how they interacted with the server.
-* Link: https://team-c-project.onrender.com/
+* Link: <https://team-c-project.onrender.com/>
     * Note: Loading the site may take a few seconds and show a page from our host (Render).
     * Credentials: bobsundougnutt / password123
 
