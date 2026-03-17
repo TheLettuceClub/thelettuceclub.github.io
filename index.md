@@ -1,28 +1,35 @@
 ---
 permalink: /index.html
 ---
-Hi, my name is Dan. I'm a 20 year old programmer and fighting game enthusiast from Chicago, currently doing his Bachelors in Computer Science at Worcester Polytechnic Institute.<br>
-I chose the name "TheLettuceClub" because I thought it sounded funny as my friends were making jokes about a club that eat a whole head of lettuce.
+Hi, my name is Dan. I'm a 21 year old programmer and fighting game enthusiast from Chicago, currently doing his Bachelors in Computer Science at Worcester Polytechnic Institute, with a minor in Electrical and Computer Engineering.
 
-I can't do that, much as I'd want to, but I have done many other wonderful things. Here's a quick list:
-* Reverse-engineered and created state-exporting mods for four of my favorite fighting games. ([Guilty Gear Strive](https://github.com/TheLettuceClub/StriveSAMMI-Release) and [Accent Core](https://github.com/TheLettuceClub/GGXXACPR_Framework), [BlazBlue: Central Fiction](https://github.com/TheLettuceClub/BBCF-Sammi) and [Under Night In-Birth 2](https://github.com/TheLettuceClub/UNI2xSAMMI-Release))
-    * This involved working with industry-standard tools like Ghidra and Cheat Engine to find the things I wanted.
-* Written hundreds of smaller programs in many languages (C/C++, Rust, Java, Python, C#, Lua, etc) that accomplish various useful tasks.
-    * One summer, I decided to learn the C++ Windows API, which went pretty well.
-    * I started learning Rust via their documentation, but got sidetracked.
-* Became the president of WPI's Fighting Game Club, leading the club to have it's first official budget and tournament with a prize pool.
-* Survived (at time of writing) nearly two years of college.
+My main programming interests are in native and embedded contexts: writing apps for Windows, Linux and the like that can have real effects or do useful things. However, recently I've been mostly involved in web development, which I've come to enjoy as I gained proficiency in the platform.
 
-If you're interested in a more formal write-up of my skills and such, look at my [resume](/resume).
-
-If you'd like to get in contact with me, my preferred methods are listed [here](/contact).
-
-If you'd like to know about my state-export mods in more detail, it is [here](/mods).
-<br><br><br>
+Thus far I've used and become familiar with the following web technologies:
+* TypeScript
+* React.JS
+* Vite
+* Node.JS
+    * ExpressJS
+* MongoDB
+* And many others...
 
 
-TODO:
-* fill in resume
-* images
-* online versions of wsTest?
-* reference this elsewhere (repos, twitter, etc)
+Through my WPI coursework, I've created or contributed to three web apps.
+
+First, for my Humanities Practicum project, I worked with a small team to update a web app for communicating with an electronic instrument called the Les Paulverizer. I contributed code that simplified and explained the connection procedure over Bluetooth and USB and added some other features.
+* Link: https://the-rat-lab.github.io/Les-Paulverizer/
+
+Second, for my IQP, I also worked with a small team to create a data-displaying website for an Angel Investing firm in New Mexico. Because the dev team was me and one other person, I was responsible for pretty much everything on the site, from the functional frontend (React), to the backend server (ASP.NET Core) to the database providing the data (Azure SQL DB). This project is where I gained most of my experience, as I'd only toyed around with what React could do previously.
+* Link: https://nmangelsreport2server-app-202511.politerock-6a695c3a.westus.azurecontainerapps.io/
+    * Note: Loading the "Database" page may take a few seconds.
+
+Finally, for my Webware class, I worked with a group of 5 to create another data-display website. This one was more advanced, as it had to display its data in a number of different forms and support a submission form for users to add new data. I was tasked with creating the backend (in ExpressJS) and making sure the frontend programmers were on the right track with how they interacted with the server.
+* Link: https://team-c-project.onrender.com/
+    * Note: Loading the site may take a few seconds and show a page from our host (Render).
+    * Credentials: bobsundougnutt / password123
+
+
+For more information, my resume is transcribed [here](/resume).
+
+If you'd like to get in contact with me for any reason, please see the methods listed on the [contact page](/contact).
