@@ -27,9 +27,10 @@ Second, for my IQP, I also worked with a small team to create a data-displaying 
 Finally, for my Webware class, I worked with a group of 5 to create another data-display website. This one was more advanced, as it had to display its data in a number of different forms and support a submission form for users to add new data. I was tasked with creating the backend (in ExpressJS) and making sure the frontend programmers were on the right track with how they interacted with the server.
 * Link: <https://gradegrid.cc/>
     * Note: Loading the site may take a few seconds and show a page from our host (Render).
-    * Credentials: bobsundougnutt / password123
 
 
 For more information, my resume is transcribed [here](/resume).
+
+If you're interested in the mods I've made for certain fighting games, go [here](/mods).
 
 If you'd like to get in contact with me for any reason, please see the methods listed on the [contact page](/contact).
